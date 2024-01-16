@@ -1,0 +1,66 @@
+.icon1 {
+  font-size: 40px;
+  color: #ffffff;
+  /*margin-top: 20px;*/
+  margin-bottom: 5px;
+}
+
+p {
+  font-family: Calibre, Helvetica Neue, Segoe UI, Helvetica, Arial, Lucida Grande, sans-serif;
+  font-size: 17px;
+}
+
+.list-group-item {
+  border: 0;
+  position: relative;
+  display: block;
+  padding: .5rem 1rem;
+  color: #a8acb0;
+  text-decoration: none;
+  background-color: rgba(255,255,255,0);
+  /*max-width: 100%;*/
+  height: 250px;
+}
+
+.list-group-item h1 {
+  font-size: 30px;
+  color: #ffffff;
+  font-family: "Cabin","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+@media only screen and (max-width: 768px) {
+  .image1 {
+    /*width: 0;*/
+    /*height: 0;*/
+  }
+}
+
+.image1 {
+  width: 298px;
+  margin-top: 130px;
+}
+
+.feature1 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+ul {
+  list-style: none;
+  display: table;
+  text-align: center;
+}
+
+ul li:after {
+  content: '✓';
+  /*margin-right: 6px;*/
+}
+
+.img-col {
+  align-content: center;
+}
+
+.tablehead {
+  font-weight: bold;
+}
+
